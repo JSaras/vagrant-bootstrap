@@ -1,3 +1,3 @@
-#Setup Vagrant Box
-#Provisioning LAMP along with most tools
-#PHP 5.6
+# Setup Vagrant Box
+Provisioning LAMP along with most tools
+PHP 5.6
